@@ -285,4 +285,7 @@
   <project path="vendor/ev" name="android_vendor_ev" remote="github" revision="ics"/>
   <project path="device/htc/ruby" name="android_device_htc_ruby" remote="github" revision="ics"/>
 
+  <project name="TeamICS/android_device_htc_heroc" path="device/htc/heroc" remote="gh_local" revision="ev_build" />
+  <project name="TeamICS/vendor_htc_heroc" path="vendor/htc/heroc" remote="gh_local" revision="ics" />
+
 </manifest>
